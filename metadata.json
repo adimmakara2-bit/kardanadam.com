@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Asistan AI",
+  "description": "Gemini Live API ile güçlendirilmiş, gerçek zamanlı Türkçe sesli asistan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
